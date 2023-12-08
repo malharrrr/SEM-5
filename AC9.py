@@ -59,3 +59,7 @@ if k1 == k2:
 else:
     print("Keys Have Not Been Exchanged Successfully")
 
+# Prime number P: 17
+# Primitive root G (primitive root modulo P): 3
+# Private key for User 1 (x1): 5
+# Private key for User 2 (x2): 9
